@@ -1,51 +1,25 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+#Turismo nos Lençóis Maranhenses: Guia Infantil 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+E-book voltado para o público infantil, que tem como objetivo divulgar o turismo nos Lençóis Maranhenses, além de alertar sobre cuidados com a natureza e a preservação local e, também, ensinar sobre geografia.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Chat GPT: criação de todos os textos e o roteiro deste projeto.
+Ferramenta Visme: utilização da IA da plataforma para criar o layout do E=book;
+Plataforma ILOVEPFD:: unir os prints tirados da plataforma em um pdf.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+deste projeto. Com a ideia definida, prossegui utilizando o ChatGPT para a elaboração do roteiro e, posteriormente, para a criação dos textos que compõem o e-book. Além disso, com o suporte da ferramenta, realizei pesquisas sobre outras plataformas que utilizassem Inteligência Artificial para a criação de e-books.
+Seguindo as sugestões do ChatGPT, desenvolvi o projeto utilizando os templates e os recursos de IA disponibilizados pela plataforma Visme. Contudo, devido à limitação de acesso gratuito à ferramenta, realizei capturas de tela do projeto finalizado e converti-as em formato PDF utilizando o site ILOVE PDF.
+Por fim, usei o Chat Gpt para corrigir os erros de português deste texto presente no README.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://drive.google.com/file/d/1s9fM8PHRzOhe33LpZosu6sA-I1hTgr11/view?usp=sharing
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Sem dúvidas, este projeto foi realizado de forma mais ágil e menos exaustiva graças à utilização de ferramentas de Inteligência Artificial no processo de desenvolvimento. No entanto, percebi que minha contribuição continua sendo essencial, especialmente no que diz respeito à criatividade e ao bom senso em questões relacionadas à estética e à harmonia.
+Dessa forma, as IAs são indispensáveis no cenário atual, mas o ser humano permanece como uma parte imprescindível para garantir a qualidade e o equilíbrio no processo criativo.
